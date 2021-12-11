@@ -92,10 +92,6 @@ textarea[type=text], select {
   border-radius: 4px;
   box-sizing: border-box;
 }
-label{
-    margin-top: 0.5em;
-    margin-bottom: 0em;
-}
 .names{
     font-family: 'Overpass Mono', monospace;
     font-size: 1.5em;
